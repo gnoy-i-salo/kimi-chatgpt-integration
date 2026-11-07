@@ -1,0 +1,17 @@
+specification {
+  element module
+  element workspace
+}
+
+model {
+  kimiChatgptIntegration = workspace "Kimi ChatGPT Integration" {
+    description "Empty pnpm monorepo. Add module elements with package/path metadata as workspaces are created."
+  }
+}
+
+views {
+  view overview {
+    include *
+    autoLayout LeftRight
+  }
+}

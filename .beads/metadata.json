@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "kimi_chatgpt_integration",
+  "project_id": "57c8d64b-4ef4-42c5-80e9-4ee75026ced9"
+}
